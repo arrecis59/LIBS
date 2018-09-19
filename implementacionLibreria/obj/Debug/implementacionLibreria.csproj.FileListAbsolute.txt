@@ -13,3 +13,17 @@ C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\impleme
 C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.csproj.GenerateResource.Cache
 C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.exe
 C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.pdb
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\implementacionLibreria.exe.config
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\obj\Debug\implementacionLibreria.exe
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\obj\Debug\implementacionLibreria.pdb
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\implementacionLibreria.exe
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\implementacionLibreria.pdb
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\Logica.dll
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\Datos.dll
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\EjemploLibreria.pdb
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\Logica.pdb
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\bin\Debug\Datos.pdb
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\obj\Debug\implementacionLibreria.csprojResolveAssemblyReference.cache
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\obj\Debug\implementacionLibreria.newk.resources
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\obj\Debug\implementacionLibreria.Properties.Resources.resources
+C:\Users\Valery\Source\Repos\LIBS\implementacionLibreria\obj\Debug\implementacionLibreria.csproj.GenerateResource.Cache
