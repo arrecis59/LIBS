@@ -1,0 +1,15 @@
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\implementacionLibreria.exe.config
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\implementacionLibreria.exe
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\implementacionLibreria.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\EjemploLibreria.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\Logica.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\Datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\EjemploLibreria.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\Logica.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\bin\Debug\Datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.newk.resources
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.Properties.Resources.resources
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.csproj.GenerateResource.Cache
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.exe
+C:\Users\josea\Documents\Visual Studio 2015\Tests\implementacionLibreria\implementacionLibreria\obj\Debug\implementacionLibreria.pdb
